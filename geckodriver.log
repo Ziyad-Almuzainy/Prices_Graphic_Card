@@ -1,0 +1,123 @@
+1662661124328	geckodriver	INFO	Listening on 127.0.0.1:53845
+1662661125347	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r2/4vfqmqsx0sjf0sw6wm4_yywc0000gn/T/rust_mozprofileqAcMhT"
+2022-09-08 21:18:45.719 plugin-container[3361:94754] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-08 21:18:45.719 plugin-container[3361:94754] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-08 21:18:45.721 plugin-container[3361:94754] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-08 21:18:45.722 plugin-container[3361:94754] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-08 21:18:45.722 plugin-container[3361:94763] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-08 21:18:45.722 plugin-container[3361:94763] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1662661125739	Marionette	INFO	Marionette enabled
+1662661125772	Marionette	INFO	Listening on port 53852
+1662661126137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/4vfqmqsx0sjf0sw6wm4_yywc0000gn/T/rust_mozprofileqAcMhT/search.json.mozlz4", (void 0)))
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://www.amazon.com/ line 1840 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nav_bb_sb line 7614 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-09-08 18:18:53.835 plugin-container[3373:95210] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-08 18:18:53.835 plugin-container[3373:95210] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-08 18:18:53.839 plugin-container[3373:95210] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-08 18:18:53.839 plugin-container[3373:95210] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-08 18:18:53.839 plugin-container[3373:95233] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-08 18:18:53.839 plugin-container[3373:95233] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/81Lp-l5MAVL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662661152944	geckodriver	INFO	Listening on 127.0.0.1:53967
+1662661153959	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r2/4vfqmqsx0sjf0sw6wm4_yywc0000gn/T/rust_mozprofileB2CzJS"
+2022-09-08 21:19:14.436 plugin-container[3380:95562] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-08 21:19:14.437 plugin-container[3380:95562] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-08 21:19:14.439 plugin-container[3380:95562] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-08 21:19:14.439 plugin-container[3380:95562] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-08 21:19:14.439 plugin-container[3380:95568] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-08 21:19:14.440 plugin-container[3380:95568] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1662661154454	Marionette	INFO	Marionette enabled
+1662661154597	Marionette	INFO	Listening on port 53974
+1662661154817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/4vfqmqsx0sjf0sw6wm4_yywc0000gn/T/rust_mozprofileB2CzJS/search.json.mozlz4", (void 0)))
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-09-08 18:19:18.629 plugin-container[3390:95963] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-08 18:19:18.630 plugin-container[3390:95963] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-08 18:19:18.633 plugin-container[3390:95963] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-08 18:19:18.633 plugin-container[3390:95963] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-08 18:19:18.634 plugin-container[3390:95967] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-08 18:19:18.634 plugin-container[3390:95967] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662661202547	Marionette	INFO	Stopped listening on port 53974
+1662661215207	Marionette	INFO	Stopped listening on port 53852
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1662661871292	geckodriver	INFO	Listening on 127.0.0.1:54154
+1662661872313	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r2/4vfqmqsx0sjf0sw6wm4_yywc0000gn/T/rust_mozprofileALdMxf"
+2022-09-08 21:31:12.720 plugin-container[3542:102347] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-08 21:31:12.721 plugin-container[3542:102347] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-08 21:31:12.723 plugin-container[3542:102347] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-08 21:31:12.723 plugin-container[3542:102347] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-08 21:31:12.724 plugin-container[3542:102345] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-08 21:31:12.724 plugin-container[3542:102345] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1662661872741	Marionette	INFO	Marionette enabled
+1662661872772	Marionette	INFO	Listening on port 54161
+1662661872980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/4vfqmqsx0sjf0sw6wm4_yywc0000gn/T/rust_mozprofileALdMxf/search.json.mozlz4", (void 0)))
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7938 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-09-08 18:31:17.136 plugin-container[3552:102701] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-08 18:31:17.136 plugin-container[3552:102701] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-08 18:31:17.138 plugin-container[3552:102701] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-08 18:31:17.138 plugin-container[3552:102701] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-08 18:31:17.139 plugin-container[3552:102700] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-08 18:31:17.139 plugin-container[3552:102700] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7924 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7924 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7924 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7936 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7924 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7924 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7924 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7924 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7924 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662661901120	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7924 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7802 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7924 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7924 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7936 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7924 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7924 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7936 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7924 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=Graphics+Card&ref=nb_sb_noss_1 line 7924 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662661924630	Marionette	INFO	Stopped listening on port 54161
